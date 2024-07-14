@@ -67,7 +67,6 @@
 
 ###
 
-<p align="left">email:rathodkuldeep99@gmail.com</p>
 
 ###
 
