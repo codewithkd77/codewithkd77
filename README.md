@@ -77,4 +77,4 @@
 
 ###
 
-![](https://komarev.com/ghpvc/?username=codewithkd77&color=green)
+![](https://komarev.com/ghpvc/?username=codewithkd77&color=brightgreen)
