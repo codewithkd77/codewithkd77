@@ -1,5 +1,8 @@
 <h1 align="left">Hey 👋 What's up Kuldeep Here ,</h1>
 
+
+![](https://komarev.com/ghpvc/?username=codewithkd77&color=brightgreen)
+
 ###
 
 <p align="left"></p>
@@ -77,4 +80,3 @@
 
 ###
 
-![](https://komarev.com/ghpvc/?username=codewithkd77&color=brightgreen)
